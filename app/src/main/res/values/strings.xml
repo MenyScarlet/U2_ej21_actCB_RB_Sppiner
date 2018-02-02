@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">U2_ej21_actCB_RB_Sppiner</string>
+    <string name="boton1">Ver Tipo</string>
+    <string name="boton2">Ver Respuesta</string>
+    <string name="tv1">¿A cuanto puedes circular en autovía?</string>
+    <string name="rb_100">A 100km/h</string>
+    <string name="rb_50">A 50km/h</string>
+    <string name="rb_200">A 200km/h</string>
+    <string name="cb_pregunta">Pregunta repetida</string>
+</resources>
